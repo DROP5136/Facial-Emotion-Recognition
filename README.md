@@ -33,11 +33,11 @@ A real-time facial emotion recognition system that captures video through a webc
 
 ### Real-time Emotion Detection
 
-![Webcam Detection](sample_output/demo_image.jpg)
+![Webcam Detection](demo_image.jpg)
 
 ### Emotion Confidence Plot
 
-![Emotion Plot](sample_output/graph_plot.png)
+![Emotion Plot](graph_plot.png)
 
 ## How to Run
 
