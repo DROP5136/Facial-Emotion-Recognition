@@ -53,3 +53,15 @@ pip install -r requirements.txt
 python emotion_recognition.py
 
 # 4. Quit the program by pressing 'q' in the webcam window
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Author
+Lakshay Batra
+
+Email: batralakshay16@gmail.com
+
+GitHub: https://github.com/DROP5136
