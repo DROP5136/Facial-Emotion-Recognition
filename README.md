@@ -42,18 +42,18 @@ A real-time facial emotion recognition system that captures video through a webc
 ## How to Run
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/facial-emotion-recognition.git
-cd facial-emotion-recognition
+ # 1. Clone the repository
+ git clone https://github.com/yourusername/facial-emotion-recognition.git
+ cd facial-emotion-recognition
 
-# 2. Install dependencies
-pip install -r requirements.txt
+ # 2. Install dependencies
+ pip install -r requirements.txt
 
-# 3. Run the script
-python emotion_recognition.py
+ # 3. Run the script
+ python emotion_recognition.py
 
-# 4. Quit the program by pressing 'q' in the webcam window
-
+ # 4. Quit the program by pressing 'q' in the webcam window
+```
 
 ## License
 
