@@ -1,8 +1,8 @@
 streamlit
 opencv-python-headless
-Pillow
+fer==22.4.0
 numpy
-fer
+Pillow
 matplotlib
 seaborn
-tensorflow
+tensorflow==2.11.0
