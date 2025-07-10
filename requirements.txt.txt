@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+Pillow
+numpy
+fer
+matplotlib
+seaborn
+tensorflow
