@@ -59,9 +59,3 @@ A real-time facial emotion recognition system that captures video through a webc
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Author
-Lakshay Batra
-
-Email: batralakshay16@gmail.com
-
-GitHub: https://github.com/DROP5136
